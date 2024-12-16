@@ -6,4 +6,4 @@
 Computer Engineer, Polytechnic University of the Philippines
 
 ### Projects
-#### Personal
+#### Personal Projects
