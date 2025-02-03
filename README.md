@@ -48,4 +48,8 @@
   <img src="https://streak-stats.demolab.com?user=adrianocurezalim&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-<img src="https://raw.githubusercontent.com/adrianocurezalim/adrianocurezalim/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adrianocurezalim/adrianocurezalim/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adrianocurezalim/adrianocurezalim/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/adrianocurezalim/adrianocurezalim/output/github-snake.svg" />
+</picture>
