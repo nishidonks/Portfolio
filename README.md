@@ -7,7 +7,7 @@
   </a>
 </div>
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h2 align="left">👩‍💻  About Me</h2>
 
 <p align="left">Highly skilled Computer Engineer and Network Security Engineer with extensive experience in mobile development. Adept at creating efficient, user-friendly applications with a strong focus on security and performance. Known for excellent analytical abilities, fast learning, and creative problem-solving skills. Passionate about technology and gaming, with a proven track record of adapting quickly to new challenges and delivering high-quality results.</p>
 
@@ -41,15 +41,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-<h3 align="left">🔥   My Stats :</h3>
+<h4 align="left">🔥   My Stats :</h4>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianocurezalim&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=adrianocurezalim&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adrianocurezalim/adrianocurezalim/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adrianocurezalim/adrianocurezalim/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/adrianocurezalim/adrianocurezalim/output/github-snake.svg" />
-</picture>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/adrianocurezalim/adrianocurezalim/output/snake.svg" alt="Snake animation" />
+</div>
